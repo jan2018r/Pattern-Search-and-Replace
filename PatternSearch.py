@@ -1,8 +1,8 @@
 '''
 Program:               Pattern Search and Replace Script
-Author:                Joel Ruiz
+Author:                
 Class:                 IT-140-T5093 Introduction to scripting 18EW5
-Instructor             Phillip Davis, Lead Instructor (Ed.D.)
+Instructor             
 Date:                  17 Jun 2018
 Description:        A program that by the use of strings and assigned outcomes the software is able 
                     to find the outcome of command line. Finally, there are endless solutions to the problems
